@@ -67,3 +67,12 @@ fundamental principles of the OLSR protocol.
 | End-to-End Delay | — | — | — |
 | Throughput | — | — | — |
 
+
+4. Final results of OLSR-PSO-GA
+Metric	Scenario A (10 UAVs)	Scenario B (30 UAVs)	Scenario C (50 UAVs)
+PDR (%)	85.81	90.72	90.34
+Throughput (Kbps)	15.55	87.87	174.96
+E2E Delay (ms)	26.90	20.14	26.64
+Jitter (ms)	17.75	16.69	21.25
+5. Full comparison: Standard OLSR vs OLSR-PSO vs OLSR-PSO-GA
+
