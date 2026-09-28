@@ -33,7 +33,7 @@ fundamental principles of the OLSR protocol.
 
 <div align="center">
 
-![System Architecture](architecture.png)
+![System Architecture](Gemini_Generated_Image_2gsn1y2gsn1y2gsn.jpg)
 
 *Figure 1: Overall architecture of the proposed OLSR-PSO-GA approach.*
 
